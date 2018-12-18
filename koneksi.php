@@ -3,7 +3,7 @@
 $server='localhost';
 $user='user_name';
 $ps='password';
-$db='kantor';
+$db='database';
 
 try {
 	$dbConn= new PDO("mysql:host={$server};dbname={$db}",$user,$ps);
