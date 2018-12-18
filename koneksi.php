@@ -1,8 +1,8 @@
 <?php
 
 $server='localhost';
-$user='sains';
-$ps='asdfh123';
+$user='user_name';
+$ps='password';
 $db='kantor';
 
 try {
