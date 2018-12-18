@@ -1,0 +1,28 @@
+body{
+	background-color: #d1e1f9;
+}
+body a{
+	text-decoration: none;
+}
+.container{
+	
+	width: 350px;
+	height:250px;
+	margin:150px auto ; 
+	margin-top:150px;
+}
+.container li{
+	list-style: none;
+}
+
+.container button{
+	margin-top:50px;
+	margin-left:50px;
+}
+.container input{
+	margin-top:10px;
+	border-radius:5%;
+}
+.container label{
+	width:50px;
+}
